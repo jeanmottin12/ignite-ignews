@@ -63,5 +63,15 @@
       text-decoration: underline;
     } 
   }
+}
 
+@media (max-width: 720px) {
+  .post {
+    margin: 3rem auto 2rem;
+
+    h1 {
+      font-size: 2.5rem;
+      font-weight: 900;
+    }
+  }
 }
