@@ -13,6 +13,10 @@
   display: flex;
   align-items: center;
 
+  > a {
+    display: flex;
+  }
+
   nav {
     margin-left: 5rem;
     height: 5rem;
